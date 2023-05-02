@@ -1,3 +1,6 @@
+
+
+<template> 
 <tr>
                         <td>
                           <div class="d-flex px-2">
@@ -25,4 +28,6 @@
                             <i class="fa fa-ellipsis-v text-xs"></i>
                           </button>
                         </td>
-                      </tr>
+</tr>
+
+</template>
